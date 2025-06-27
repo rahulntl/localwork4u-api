@@ -1,0 +1,26 @@
+{
+  "name": "localwork4u-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulntl/localwork4u-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rahulntl/localwork4u-api/issues"
+  },
+  "homepage": "https://github.com/rahulntl/localwork4u-api#readme",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "express": "^4.21.2",
+    "graphql": "^16.11.0"
+  }
+}
